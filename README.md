@@ -1,4 +1,4 @@
 # demo
 my first repository.
 <br>
-Author - omkar more
+Author - omkar (coder)
